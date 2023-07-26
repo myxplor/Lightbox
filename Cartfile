@@ -1,2 +1,2 @@
-github "myxplor/Imaginary" "master"
+github "myxplor/Imaginary" ~> 5.0.0
 github "hyperoslo/Cache" ~> 6.0.0
